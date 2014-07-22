@@ -1,0 +1,9 @@
+D:\Faisal2014000009\Bonus Calculation\Bonus Calculation\bin\Debug\Bonus Calculation.exe.config
+D:\Faisal2014000009\Bonus Calculation\Bonus Calculation\bin\Debug\Bonus Calculation.exe
+D:\Faisal2014000009\Bonus Calculation\Bonus Calculation\bin\Debug\Bonus Calculation.pdb
+D:\Faisal2014000009\Bonus Calculation\Bonus Calculation\obj\Debug\Bonus Calculation.csprojResolveAssemblyReference.cache
+D:\Faisal2014000009\Bonus Calculation\Bonus Calculation\obj\Debug\Bonus_Calculation.EmployeeSalary.resources
+D:\Faisal2014000009\Bonus Calculation\Bonus Calculation\obj\Debug\Bonus_Calculation.Properties.Resources.resources
+D:\Faisal2014000009\Bonus Calculation\Bonus Calculation\obj\Debug\Bonus Calculation.csproj.GenerateResource.Cache
+D:\Faisal2014000009\Bonus Calculation\Bonus Calculation\obj\Debug\Bonus Calculation.exe
+D:\Faisal2014000009\Bonus Calculation\Bonus Calculation\obj\Debug\Bonus Calculation.pdb

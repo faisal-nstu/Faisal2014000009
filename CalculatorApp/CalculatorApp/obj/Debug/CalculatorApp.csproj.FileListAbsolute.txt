@@ -1,0 +1,12 @@
+C:\Users\acer\Desktop\21.0814\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\acer\Desktop\21.0814\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\acer\Desktop\21.0814\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\acer\Desktop\21.0814\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\21.0814\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
+C:\Users\acer\Desktop\21.0814\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\acer\Desktop\21.0814\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\21.0814\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\acer\Desktop\21.0814\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+D:\Faisal2014000009\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\Faisal2014000009\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\Faisal2014000009\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

@@ -1,0 +1,9 @@
+D:\Esmot\faisal\C#\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+D:\Esmot\faisal\C#\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+D:\Esmot\faisal\C#\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+D:\Esmot\faisal\C#\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+D:\Esmot\faisal\C#\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.BankAccountAppUI.resources
+D:\Esmot\faisal\C#\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+D:\Esmot\faisal\C#\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+D:\Esmot\faisal\C#\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+D:\Esmot\faisal\C#\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb

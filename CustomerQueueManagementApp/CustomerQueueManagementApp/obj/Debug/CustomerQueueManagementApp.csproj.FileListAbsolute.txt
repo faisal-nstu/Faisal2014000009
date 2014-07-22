@@ -1,0 +1,18 @@
+c:\users\tanjil\documents\visual studio 2013\Projects\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+c:\users\tanjil\documents\visual studio 2013\Projects\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe
+c:\users\tanjil\documents\visual studio 2013\Projects\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.pdb
+c:\users\tanjil\documents\visual studio 2013\Projects\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.CustomerQueueManagementAppUI.resources
+c:\users\tanjil\documents\visual studio 2013\Projects\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.Properties.Resources.resources
+c:\users\tanjil\documents\visual studio 2013\Projects\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csproj.GenerateResource.Cache
+c:\users\tanjil\documents\visual studio 2013\Projects\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.exe
+c:\users\tanjil\documents\visual studio 2013\Projects\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.pdb
+C:\Users\Tanjil\Documents\Visual Studio 2013\Projects\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csprojResolveAssemblyReference.cache
+D:\FTFL_ITS009\faisal\C#\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+D:\FTFL_ITS009\faisal\C#\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.exe
+D:\FTFL_ITS009\faisal\C#\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.pdb
+D:\FTFL_ITS009\faisal\C#\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe
+D:\FTFL_ITS009\faisal\C#\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.pdb
+D:\FTFL_ITS009\faisal\C#\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.CustomerQueueManagementAppUI.resources
+D:\FTFL_ITS009\faisal\C#\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.Properties.Resources.resources
+D:\FTFL_ITS009\faisal\C#\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csproj.GenerateResource.Cache
+D:\FTFL_ITS009\faisal\C#\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csprojResolveAssemblyReference.cache

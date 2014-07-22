@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\21.0814\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+C:\Users\acer\Desktop\21.0814\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+C:\Users\acer\Desktop\21.0814\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+C:\Users\acer\Desktop\21.0814\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\21.0814\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+C:\Users\acer\Desktop\21.0814\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.SalaryCalcApp.resources
+C:\Users\acer\Desktop\21.0814\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\21.0814\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+C:\Users\acer\Desktop\21.0814\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb

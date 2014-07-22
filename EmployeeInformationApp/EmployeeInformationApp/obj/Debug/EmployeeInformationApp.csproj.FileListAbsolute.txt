@@ -1,0 +1,9 @@
+D:\Faisal2014000009\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe.config
+D:\Faisal2014000009\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe
+D:\Faisal2014000009\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.pdb
+D:\Faisal2014000009\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csprojResolveAssemblyReference.cache
+D:\Faisal2014000009\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.Properties.Resources.resources
+D:\Faisal2014000009\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csproj.GenerateResource.Cache
+D:\Faisal2014000009\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.exe
+D:\Faisal2014000009\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.pdb
+D:\Faisal2014000009\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.EmployeeInformationUI.resources

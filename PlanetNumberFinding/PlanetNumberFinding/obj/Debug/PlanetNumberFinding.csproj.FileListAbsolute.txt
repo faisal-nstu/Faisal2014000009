@@ -1,0 +1,9 @@
+D:\Faisal2014000009\PlanetNumberFinding\PlanetNumberFinding\bin\Debug\PlanetNumberFinding.exe.config
+D:\Faisal2014000009\PlanetNumberFinding\PlanetNumberFinding\bin\Debug\PlanetNumberFinding.exe
+D:\Faisal2014000009\PlanetNumberFinding\PlanetNumberFinding\bin\Debug\PlanetNumberFinding.pdb
+D:\Faisal2014000009\PlanetNumberFinding\PlanetNumberFinding\obj\Debug\PlanetNumberFinding.csprojResolveAssemblyReference.cache
+D:\Faisal2014000009\PlanetNumberFinding\PlanetNumberFinding\obj\Debug\PlanetNumberFinding.Form1.resources
+D:\Faisal2014000009\PlanetNumberFinding\PlanetNumberFinding\obj\Debug\PlanetNumberFinding.Properties.Resources.resources
+D:\Faisal2014000009\PlanetNumberFinding\PlanetNumberFinding\obj\Debug\PlanetNumberFinding.csproj.GenerateResource.Cache
+D:\Faisal2014000009\PlanetNumberFinding\PlanetNumberFinding\obj\Debug\PlanetNumberFinding.exe
+D:\Faisal2014000009\PlanetNumberFinding\PlanetNumberFinding\obj\Debug\PlanetNumberFinding.pdb
