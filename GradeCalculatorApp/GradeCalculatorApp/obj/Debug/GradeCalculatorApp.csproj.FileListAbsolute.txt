@@ -1,1 +1,9 @@
 C:\Users\acer\Desktop\21.0814\GradeCalculatorApp\GradeCalculatorApp\bin\Debug\GradeCalculatorApp.exe.config
+C:\Users\acer\Desktop\21.0814\GradeCalculatorApp\GradeCalculatorApp\obj\Debug\GradeCalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\21.0814\GradeCalculatorApp\GradeCalculatorApp\obj\Debug\GradeCalculatorApp.GradeCalculatorUI.resources
+C:\Users\acer\Desktop\21.0814\GradeCalculatorApp\GradeCalculatorApp\obj\Debug\GradeCalculatorApp.Properties.Resources.resources
+C:\Users\acer\Desktop\21.0814\GradeCalculatorApp\GradeCalculatorApp\obj\Debug\GradeCalculatorApp.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\21.0814\GradeCalculatorApp\GradeCalculatorApp\bin\Debug\GradeCalculatorApp.exe
+C:\Users\acer\Desktop\21.0814\GradeCalculatorApp\GradeCalculatorApp\bin\Debug\GradeCalculatorApp.pdb
+C:\Users\acer\Desktop\21.0814\GradeCalculatorApp\GradeCalculatorApp\obj\Debug\GradeCalculatorApp.exe
+C:\Users\acer\Desktop\21.0814\GradeCalculatorApp\GradeCalculatorApp\obj\Debug\GradeCalculatorApp.pdb

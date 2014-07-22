@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C7F069B9-7AB9-4B7C-A8B2-7FD5F1E75259}</ProjectGuid>
+    <ProjectGuid>{357764EC-085D-4FF7-833C-E040C6B7DFFC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GradeCalculatorApp</RootNamespace>
-    <AssemblyName>GradeCalculatorApp</AssemblyName>
+    <RootNamespace>VehicleApp</RootNamespace>
+    <AssemblyName>VehicleApp</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -44,18 +44,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Grade.cs" />
-    <Compile Include="GradeCalculatorUI.cs">
+    <Compile Include="VechileUI.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GradeCalculatorUI.Designer.cs">
-      <DependentUpon>GradeCalculatorUI.cs</DependentUpon>
+    <Compile Include="VechileUI.Designer.cs">
+      <DependentUpon>VechileUI.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="GradeCalculatorUI.resx">
-      <DependentUpon>GradeCalculatorUI.cs</DependentUpon>
-    </EmbeddedResource>
+    <Compile Include="Vehicle.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -65,6 +62,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="VechileUI.resx">
+      <DependentUpon>VechileUI.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
