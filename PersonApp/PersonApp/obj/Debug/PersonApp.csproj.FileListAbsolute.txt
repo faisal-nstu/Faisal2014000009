@@ -12,3 +12,11 @@ C:\Users\lab2\Desktop\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
 D:\Faisal2014000009\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
 D:\Faisal2014000009\PersonApp\PersonApp\obj\Debug\PersonApp.exe
 D:\Faisal2014000009\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
+D:\Faisal-ITS-2014000009\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+D:\Faisal-ITS-2014000009\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+D:\Faisal-ITS-2014000009\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
+D:\Faisal-ITS-2014000009\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+D:\Faisal-ITS-2014000009\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+D:\Faisal-ITS-2014000009\PersonApp\PersonApp\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache
+D:\Faisal-ITS-2014000009\PersonApp\PersonApp\obj\Debug\PersonApp.PersonUI.resources
+D:\Faisal-ITS-2014000009\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.Cache

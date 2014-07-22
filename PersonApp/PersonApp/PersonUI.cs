@@ -12,7 +12,7 @@ namespace PersonApp
 {
     public partial class PersonUI : Form
     {
-        Person aPerson = new Person();
+        private Person aPerson;
         public PersonUI()
         {
             InitializeComponent();
@@ -26,9 +26,7 @@ namespace PersonApp
 
         private void SetNames()
         {
-            aPerson.firstName = firstNameTextBox.Text;
-            aPerson.middleName = middleNameTextBox.Text;
-            aPerson.lastName = lastNameTextBox.Text;
+            aPerson = new Person(firstNameTextBox.Text,middleNameTextBox.Text,lastNameTextBox.Text);
         }
 
         private void ameButton_Click(object sender, EventArgs e)

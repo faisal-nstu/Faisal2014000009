@@ -12,7 +12,7 @@ namespace BankAccountApp
 {
     public partial class BankAccountAppUI : Form
     {
-        Account anAccount = new Account();
+        private Account anAccount;
         public BankAccountAppUI()
         {
             InitializeComponent();
@@ -20,8 +20,8 @@ namespace BankAccountApp
 
         private void createButton_Click(object sender, EventArgs e)
         {
-            //GetValue();
-            //MessageBox.Show("Account Created.\nName: " + anAccount.name + "\nAccount No.: " + anAccount.accountNo);
+           anAccount = new Account(accountNoTextBox.Text, nameTextBox.Text);
+            accLabel.Text = "Account Name: " + anAccount.Name + ". - Account No: " + anAccount.AccountNo;
         }
 
         
@@ -35,8 +35,7 @@ namespace BankAccountApp
 
         private void reportButton_Click(object sender, EventArgs e)
         {
-            //string msg = anAccount.Report();
-            //MessageBox.Show("Balance" + msg);
+            
             MessageBox.Show("Baalnce: " + anAccount.Balance.ToString());
         }
 

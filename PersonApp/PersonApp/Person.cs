@@ -12,6 +12,41 @@ namespace PersonApp
         public string middleName;
         public string lastName;
 
+        public string FirstName
+        {
+            get { return firstName; }
+        }
+
+        public string MiddleName
+        {
+            get { return middleName; }
+        }
+
+        public string LastName
+        {
+            get { return lastName; }
+        }
+
+        public Person()
+        {
+        }
+
+        public Person(string firstName, string lastName)
+        {
+            this.firstName = firstName;
+            this.lastName = lastName;
+        }
+
+        public Person(string firstName, string middleName, string lastName)
+        {
+            this.firstName = firstName;
+            this.middleName = middleName;
+            this.lastName = lastName;
+            
+        }
+
+
+
         public string GetFullName()
         {
             return firstName + " " + middleName + " " + lastName;

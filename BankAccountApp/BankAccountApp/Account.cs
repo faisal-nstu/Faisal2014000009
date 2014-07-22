@@ -31,6 +31,17 @@ namespace BankAccountApp
             
         }
 
+        public Account(string accountNo, string name) :this()
+        {
+            this.name = name;
+            this.accountNo = accountNo;
+        }
+
+        public Account()
+        {
+            this.balance = 0;
+        }
+
         public string Deposit(double amount)
         {
            
