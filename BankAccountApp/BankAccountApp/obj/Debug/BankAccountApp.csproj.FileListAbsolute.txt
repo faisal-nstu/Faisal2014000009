@@ -7,3 +7,14 @@ D:\Esmot\faisal\C#\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Proper
 D:\Esmot\faisal\C#\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
 D:\Esmot\faisal\C#\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
 D:\Esmot\faisal\C#\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+K:\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+K:\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+K:\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+K:\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.BankAccountAppUI.resources
+K:\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+K:\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+K:\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+K:\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+D:\Faisal-ITS-2014000009\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+D:\Faisal-ITS-2014000009\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+D:\Faisal-ITS-2014000009\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb

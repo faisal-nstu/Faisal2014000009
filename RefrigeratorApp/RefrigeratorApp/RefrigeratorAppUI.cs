@@ -12,7 +12,7 @@ namespace RefrigeratorApp
 {
     public partial class RefrigeratorAppUI : Form
     {
-        Refrigerator aRefrigerator = new Refrigerator();
+        Refrigerator aRefrigerator;
         public RefrigeratorAppUI()
         {
             InitializeComponent();
@@ -20,7 +20,8 @@ namespace RefrigeratorApp
 
         private void saveButton_Click(object sender, EventArgs e)
         {
-            aRefrigerator.capacity = Convert.ToDouble(capacityTextBox.Text);
+            aRefrigerator = new Refrigerator();
+            aRefrigerator.Capacity = Convert.ToDouble(capacityTextBox.Text);
 
         }
 
@@ -31,8 +32,10 @@ namespace RefrigeratorApp
             try
             {
                 aRefrigerator.AddItems(noOfItem,weightPerUnit);
-                currentWeightTextBox.Text = aRefrigerator.currentWeight.ToString();
-                remainingWeightTextbox.Text = aRefrigerator.remainingWeight.ToString();
+                noOfItemsTextBox.Text = "";
+                weightPerUnitTextBox.Text = "";
+                currentWeightTextBox.Text = aRefrigerator.CurrentWeight.ToString();
+                remainingWeightTextbox.Text = aRefrigerator.RemainingWeight.ToString();
             }
             catch (Exception exceptionObj)
             {

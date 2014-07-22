@@ -8,14 +8,31 @@ namespace RefrigeratorApp
 {
     class Refrigerator
     {
-        public double capacity;
-        public double currentWeight=0;
-        public double remainingWeight;
+        private double capacity;
+        private double currentWeight=0;
+        private double remainingWeight;
+
+        public double Capacity
+        {
+            get { return capacity; }
+            set { capacity = value; }
+        }
+
+        public double CurrentWeight
+        {
+            get { return currentWeight; }
+            
+        }
+
+        public double RemainingWeight
+        {
+            get { return remainingWeight; }
+        }
 
         public void AddItems(int noOfItems, double weightPerUnit)
         {
-            double itetTobeAdded = weightPerUnit*noOfItems;
-            if (currentWeight + itetTobeAdded <= capacity)
+            double itemsTobeAdded = weightPerUnit*noOfItems;
+            if (currentWeight + itemsTobeAdded <= capacity)
             {
                 currentWeight +=  noOfItems*weightPerUnit;
                 remainingWeight = capacity - currentWeight;
