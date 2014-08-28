@@ -1,0 +1,31 @@
+﻿@model System.Linq.IQueryable<WebMdApplication.Models.Article>
+
+@{
+    ViewBag.Title = "title";
+   
+}
+
+<h2>Title</h2>
+
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Doctor.DoctorName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ArticleTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ArticleContent)
+        </td>
+        <td>
+            <img src="@Url.Content("~/Images/" + item.ImagePath)" height="200px" width="200px" />
+            
+        </td>
+       
+    </tr>
+    
+
+}
